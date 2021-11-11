@@ -15,6 +15,7 @@
     "webpack-dev-server": "^4.4.0"
   },
   "dependencies": {
+    "@salesforce/design-system-react": "^0.10.39",
     "@types/react": "^17.0.34",
     "@types/react-dom": "^17.0.11",
     "react": "^17.0.2",

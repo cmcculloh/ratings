@@ -26,6 +26,7 @@ yarn init -y
 yarn add typescript ts-loader
 yarn add --dev webpack webpack-cli webpack-dev-server
 yarn add react react-dom @types/react @types/react-dom
+yarn add @salesforce/design-system-react
 mkdir public
 mkdir src
 touch src/app.js
